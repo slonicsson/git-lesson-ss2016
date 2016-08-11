@@ -5,3 +5,7 @@ and another
 lets add some more lines for
 our second commit 
 yay!
+
+this an example of adding something halfway
+some extra changes
+
