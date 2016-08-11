@@ -11,7 +11,7 @@ this is a change:
 * item 2
 * item 3
 
-this is a breaking change
+this breaks things
 ==============================
 
 
