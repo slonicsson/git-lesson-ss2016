@@ -16,6 +16,8 @@ I can make a divider like this
 ==============================
 
 
+this is another nonconflicting change
+
 # To make a new section header
 ## make a smaller one
 ### even smaller
