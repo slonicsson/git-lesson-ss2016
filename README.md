@@ -5,14 +5,13 @@ This is our teaching repository for summer school 2016
 
 **this bold**
 
-We can make a list like this:
+this is a change:
 
 * item 1
 * item 2
 * item 3
 
-I can make a divider like this
-
+this is another change, but is safe
 ==============================
 
 
